@@ -12,16 +12,16 @@ $(window).load(function(){
 
             var top = $(document).scrollTop();
 
-            if (top > 542) {
+            if (top > 542 && window.innerWidth > 800) {
                 $('#wrapper-about').css({'position': 'fixed', 'top': '0', 'background-color': 'white'});
                 $('#wrapper-projects').css({'position': 'relative', 'top': '510px'});
-          	}
-          	else {
-          		$('#wrapper-about').css({'position': 'relative'});
-          		$('#wrapper-projects').css({'position': 'relative', 'top': '0px'});
-          	}
-          	
-          	return false;
+            }
+            else {
+              $('#wrapper-about').css({'position': 'relative'});
+              $('#wrapper-projects').css({'position': 'relative', 'top': '0px'});
+            }
+            
+            return false;
         });
     });
 });
