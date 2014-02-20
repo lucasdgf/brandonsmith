@@ -22,12 +22,12 @@
 						<h3>- ABOUT ME -</h3>
 						<hr></hr>
 						<div class="left">
-							<p><b>Hey.</b>  I am an Ohio State University student who is currently studying Computer Science and is slated to graduate in May, 2014.  I have an immense passion for software development, design, and playing with my cat who I'm convinced thinks he's a dog.</p>
-							<p>I've had multiple internships with companies like Intel, have participated in (and won) multiple hackathons, and have an app called Glitchr on the Android Play Store (which currently has 3,500+ active users).  If you'd like to get in touch regarding projects, job opportunities, or to discuss how poorly Lost ended, feel free to <a href="mailto:smith7018@gmail.com">email me.</a></p>
+							<p><b>Hey.</b>  I am an Ohio State University student who is currently studying <b>Computer Science</b> and is slated to graduate in May, 2014.  I have an immense passion for <b>software development</b>, <b>design</b>, and playing with my cat who I'm convinced thinks he's a dog.</p>
+							<p>I've had multiple internships with companies like <b>Intel</b>, have <b>participated in</b> (and <b>won</b>) multiple <b>hackathons</b>, and have an app called <b>Glitchr</b> on the Android Play Store (which currently has 3,500+ active users).  If you'd like to get in touch regarding projects, job opportunities, or to discuss how poorly Lost ended, feel free to <a href="mailto:smith7018@gmail.com">email me.</a></p>
 						</div>
 						<div class="right">
 							<div class="img">
-								<img src="assets/img/glitchr.jpg"></img>
+								<img src="assets/img/me.jpg"></img>
 							</div>
 						</div>
 					</div>
@@ -41,7 +41,7 @@
 							<li><img src="assets/img/glitchr.jpg"></img>
 								<figcaption>
 									<h4>Glitchr</h4>
-									<p>Glitchr is an Android app that lets you give your photos a cool retro look! Glitchr curretly has which currently has <b>3,500+ active users</b> and 180+ reviews <b>(4.0 stars)</b></p>
+									<p>Glitchr is an Android app that lets you give your photos a cool retro look! Glitchr currently has <b>3,500+ active users</b> and 180+ reviews <b>(4.0 stars)</b>.</p>
 								</figcaption>
 							</li>
 						</a>
@@ -62,10 +62,10 @@
 							</li>
 						</a>
 							<a class="project-link">
-							<li><img src="assets/img/glitchr.jpg"></img>
+							<li><img src="assets/img/reddit.jpg"></img>
 								<figcaption>
-									<h4>Project</h4>
-									<p>This is what my project does,guys!</p>
+									<h4>Reddit CAPTCHA Cracker</h4>
+									<p>This Reddit CAPTCHA Cracker uses <b>machine learning</b> and <b>image processing</b> to successfully crack Reddit's CAPTCHA system.</p>
 								</figcaption>
 							</li>
 						</a>
