@@ -458,14 +458,14 @@ div.footer h4 {
 figcaption {
     display:block;
     width:31%;
-    height:115px;
+    height:135px;
     padding:10px;
     position:absolute;
     color:#FFFFFF;
     background:rgba(94, 101, 94, 0.8);
     opacity: 0;
     margin-left: 0px;
-	margin-top: -141px;
+	margin-top: -161px !important;
 	width: 259px;
 	-webkit-transition: -webkit-transform 0.4s, opacity 0.1s 0.3s;
 	-moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s;
@@ -496,4 +496,8 @@ li:hover figcaption {
 	-moz-transform: translateY(0px);
 	-ms-transform: translateY(0px);
 	transform: translateY(0px);
+}
+
+a.no-underline {
+  text-decoration: none;
 }

@@ -45,11 +45,11 @@
 								</figcaption>
 							</li>
 						</a>
-							<a class="project-link">
-							<li><img src="assets/img/barback.jpg"></img>
+						<a class="project-link">
+							<li><img src="assets/img/calculator.jpg"></img>
 								<figcaption>
-									<h4>BarBack</h4>
-									<p>BarBack is an Android app that allows users to order drinks from their phones at bars. BarBack won <b>Google's Favorite Hack award</b> at HackRice 2014.</p>
+									<h4>Gesture-Based Calculator</h4>
+									<p>This C#-based calculator uses <b>intuitive gestures</b>, such as "swipe left to subtract" as input. This app placed <b>1st Place in the Microsoft Winter App Hackathon 2013</b></p>
 								</figcaption>
 							</li>
 						</a>
@@ -69,19 +69,19 @@
 								</figcaption>
 							</li>
 						</a>
-							<a class="project-link">
-							<li><img src="assets/img/glitchr.jpg"></img>
+						<a class="project-link">
+							<li><img src="assets/img/barback.jpg"></img>
 								<figcaption>
-									<h4>Project</h4>
-									<p>This is what my project does,guys!</p>
+									<h4>BarBack</h4>
+									<p>BarBack is an Android app that allows users to order drinks from their phones at bars. BarBack won <b>Google's Favorite Hack award</b> at HackRice 2014.</p>
 								</figcaption>
 							</li>
 						</a>
 							<a class="project-link">
-							<li><img src="assets/img/glitchr.jpg"></img>
+							<li><img src="assets/img/more.jpg"></img>
 								<figcaption>
-									<h4>Project</h4>
-									<p>This is what my project does,guys!</p>
+									<h4>More to come!</h4>
+									<p>Come back later for more!</p>
 								</figcaption>
 							</li>
 						</a>
@@ -218,7 +218,7 @@
 						<h3>- CONTACT -</h3>
 						<hr></hr>
 						<h4>You can contact me at <a href="mailto:me@bybrandonsmith.com">me@bybrandonsmith.com</a></h4>
-						<h4><i class="fa fa-repeat"></i> Reload for a<br/>new Glitchr effect!</h4>
+						<h4><a class="no-underline" href="javascript:history.go(0)"><i class="fa fa-repeat"></i> Reload for a<br/>new Glitchr effect!</a></h4>
 					</div>
 				</div>
 			</div>
