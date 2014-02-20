@@ -54,10 +54,10 @@
 							</li>
 						</a>
 							<a class="project-link">
-							<li><img src="assets/img/glitchr.jpg"></img>
+							<li><img src="assets/img/lookingglass.jpg"></img>
 								<figcaption>
-									<h4>Project</h4>
-									<p>This is what my project does,guys!</p>
+									<h4>Looking Glass</h4>
+									<p>Looking Glass is a <b>Google Glass</b> app that uses the camera, <b>OCR</b>, and the speaker to assist the visually impaired by identifying the object the user is holding.</p>
 								</figcaption>
 							</li>
 						</a>
