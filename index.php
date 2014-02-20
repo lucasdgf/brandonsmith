@@ -21,8 +21,8 @@
 						<h3>- ABOUT ME -</h3>
 						<hr></hr>
 						<div class="left">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor suscipit justo, id ultricies ipsum sodales non. Duis dictum fringilla iaculis. Cras elementum convallis neque in interdum. Aenean quis dui hendrerit, semper nibh sed, pretium orci. Nunc fermentum luctus mi a sollicitudin. Nam in ante a velit venenatis auctor. Duis semper dolor orci, et sagittis quam posuere vel. Aliquam lacinia, risus sed tincidunt lobortis, risus ipsum ultrices augue, at fringilla eros lorem in dolor. Suspendisse nec risus nisl. Mauris vitae adipiscing massa. </p>
-							<p>Nulla vitae eros at elit gravida dictum in ut purus. Etiam rutrum erat vitae scelerisque semper. Aenean urna elit, congue in interdum nec, lobortis nec ligula. Vivamus turpis eros, rutrum nec urna non, vulputate egestas dui. Quisque varius massa non tristique bibendum. Nunc lacinia aliquam consequat. Vestibulum a sagittis neque, ut porttitor massa.</p>
+							<p><b>Hey.</b>  I am an Ohio State University student who is currently studying Computer Science and is slated to graduate in May, 2014.  I have an immense passion for software development, design, and playing with my cat who I'm convinced thinks he's a dog.</p>
+							<p>I've had multiple internships with companies like Intel, have participated in (and won) multiple hackathons, and have an app called Glitchr on the Android Play Store (which currently has 3,500+ active users).  If you'd like to get in touch regarding projects, job opportunities, or to discuss how poorly Lost ended, feel free to <a href="mailto://smith7018@gmail.com">email me.</a></p>
 						</div>
 						<div class="right">
 							<div class="img">
