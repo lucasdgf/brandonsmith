@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 	<head>
 		<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+		<link rel="icon" href="assets/img/favicon.ico" type="image/x-icon"/>
 		<title>Brandon Smith</title>
 		<link rel='stylesheet' media="screen" type='text/css' href='assets/css/styles.css'/>
 		<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
@@ -40,15 +41,15 @@
 							<li><img src="assets/img/glitchr.jpg"></img>
 								<figcaption>
 									<h4>Glitchr</h4>
-									<p>Glitchr is an Android app that lets you give your photos a cool retro look!</p>
+									<p>Glitchr is an Android app that lets you give your photos a cool retro look! Glitchr curretly has which currently has <b>3,500+ active users</b> and 180+ reviews <b>(4.0 stars)</b></p>
 								</figcaption>
 							</li>
 						</a>
 							<a class="project-link">
-							<li><img src="assets/img/glitchr.jpg"></img>
+							<li><img src="assets/img/barback.jpg"></img>
 								<figcaption>
-									<h4>Project</h4>
-									<p>This is what my project does,guys!</p>
+									<h4>BarBack</h4>
+									<p>BarBack is an Android app that allows users to order drinks from their phones at bars. BarBack won <b>Google's Favorite Hack award</b> at HackRice 2014.</p>
 								</figcaption>
 							</li>
 						</a>

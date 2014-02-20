@@ -7,15 +7,19 @@ html, body {
 	font-family: Brandon;
 }
 
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
 @media (max-width: 1000px) {
   div.about, div.projects, ul.projects {
   	width: 800px !important;
   }
 
   figcaption {
-  	width: 228px !important;
-	margin-left: 0px !important;
-	margin-top: -91px !important;
+    width: 228px !important;
+	  margin-left: 0px !important;
+	  margin-top: -91px !important;
   }
 } 
 
@@ -453,14 +457,14 @@ div.footer h4 {
 figcaption {
     display:block;
     width:31%;
-    height:65px;
+    height:115px;
     padding:10px;
     position:absolute;
     color:#FFFFFF;
     background:rgba(94, 101, 94, 0.8);
     opacity: 0;
     margin-left: 0px;
-	margin-top: -91px;
+	margin-top: -141px;
 	width: 259px;
 	-webkit-transition: -webkit-transform 0.4s, opacity 0.1s 0.3s;
 	-moz-transition: -moz-transform 0.4s, opacity 0.1s 0.3s;
@@ -473,7 +477,7 @@ figcaption {
 
 figcaption h4 {
 	text-align: left !important;
-	margin: 0 5px;
+	margin: 5px 5px;
 }
 
 figcaption p {
